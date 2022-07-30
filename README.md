@@ -17,4 +17,5 @@ Aplicativo de lista de cartão de visita onde é possível manter os dados nome,
 --------------------------------------------------------------------------------------------
 
 Modificação feitas por mim [@devlucasarruda](https://github.com/devlucasarruda):
-- TODO
+- Correção do Bug do app dar crash quando se digitava uma cor errada (incompleta, ou em letras minúsculas).
+- Implantação de um Color Picker, para facilitar a escolha da cor de fundo do cartão.
